@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Akash 👨‍💻
 
-![Header image](https://via.placeholder.com/1200x300?text=🚀+Welcome+to+My+GitHub+Profile!+🌟)
+![Header image](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile!)
+
 
 
 ## 🌟 About Me
