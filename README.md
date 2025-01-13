@@ -28,9 +28,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Mr. Unknown's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=radical)](https://github.com/coderakki2204)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash&layout=compact&theme=radical)](https://github.com/coderakki2204)
 
 
 ---
