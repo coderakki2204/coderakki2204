@@ -4,9 +4,9 @@
 
 ## 🌟 About Me
 - 🔭 **I’m currently working on:** Exciting Open Source Projects!
-- 🌱 **I’m currently learning:** Advanced JavaScript, React, and Machine Learning.
-- 💬 **Ask me about:** Python, JavaScript, and Software Development.
-- ⚡ **Fun fact:** I love emojis! 😎✨
+- 🌱 **I’m currently learning:** Android Development, Kotlin, and Machine Learning.
+- 💬 **Ask me about:** Software Development.
+- ⚡ **Fun fact:** I love Cricket! 😎✨
 
 ---
 
