@@ -24,6 +24,8 @@
 ![OOP](https://img.shields.io/badge/-OOP-0095D5?style=flat&logo=oop&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
 
 ---
 
