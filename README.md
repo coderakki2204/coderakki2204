@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akash 👨‍💻
 
 <p align="center">
- ![Welcome](https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile!-1E90FF?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://via.placeholder.com/1200x300/1E90FF/FFFFFF?text=Welcome+to+My+GitHub+Profile!" alt="Welcome banner"/>
 </p>
 
 ---
