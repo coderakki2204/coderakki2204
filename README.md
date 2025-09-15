@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Akash 👨‍💻
 
-![Header image](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile!)
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300/1E90FF/FFFFFF?text=Welcome+to+My+GitHub+Profile!" alt="Welcome banner"/>
+</p>
 
-
+---
 
 ## 🌟 About Me
-- 🔭 **I’m currently working on:** Exciting Open Source Projects!
-- 🌱 **I’m currently learning:** Android Development, Kotlin, and Machine Learning.
-- 💬 **Ask me about:** Software Development.
-- ⚡ **Fun fact:** I love Cricket! 😎✨
+- 🔭 **Currently working on:** Exciting Open Source Projects!  
+- 🌱 **Currently learning:** Android Development, Kotlin, Java, Node.js, React, and Machine Learning.  
+- 💬 **Ask me about:** Software Development.  
+- ⚡ **Fun fact:** I love Cricket! 😎✨  
 
 ---
 
@@ -26,14 +28,15 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-
 ---
 
 ## 📊 GitHub Stats
-![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash&show_icons=true&theme=radical)
+![Akash GitHub stats](https://github-readme-stats.vercel.app/api?username=coderakki2204&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash&layout=compact&theme=radical)](https://github.com/coderakki2204)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderakki2204&layout=compact&theme=radical)](https://github.com/coderakki2204)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=coderakki2204&theme=radical&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=coderakki2204&color=blue&style=flat)
 
 ---
 
@@ -44,10 +47,10 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 Completed Android development tranning at intershala.
-- 🚀 Built weather app.
-- 🥇 Got certificate in sql from hackerRank.
-- 🥇 Got certificate in C++ from gfg.
+- 🥇 Completed Android development training at Internshala.  
+- 🚀 Built a weather app.  
+- 🥇 Got a certificate in SQL from HackerRank.  
+- 🥇 Got a certificate in C++ from GeeksforGeeks.  
 
 ---
 
